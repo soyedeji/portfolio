@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "Weather App",
+    "description": "You need to check out the weather of cities around the world? This app got you covered. Made with React and OpenWeatherAPI.",
+    "thumbnail": "projects/weatherapp.jpg",
+    "deployed": "https://smtoyedeji.github.io/react-weather-app/",
+    "github": "",
+    "date": ""
+  },
+  {
+    "id": "2",
+    "title": "Tesla Clone",
+    "description": "Tesla cars have come to be a symbol of status, everyone's dream car. Made this Tesla website clone with ReactJS.",
+    "thumbnail": "projects/teslaclone.jpg",
+    "deployed": "https://smtoyedeji.github.io/teslaclone/#",
+    "github": "",
+    "date": ""
+  },
+  {
+    "id": "3",
+    "title": "My Portfolio",
+    "description": "My personal portfolio. Tech stack - HTML, Tailwind, JavaScript, Firebase.",
+    "thumbnail": "projects/portfolio.jpg",
+    "deployed": "",
+    "github": "",
+    "date": ""
+  },
+  {
+    "id": "4",
+    "title": "A Landing Page",
+    "description": "Tech stack - HTML, CSS and JavaScript.",
+    "thumbnail": "projects/landingpage.jpg", 
+    "deployed": "https://smtoyedeji.github.io/cr8ive.github.io/",
+    "github": "",
+    "date": ""
+  }
+]

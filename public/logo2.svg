@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 300">
+  <!-- Browser window outline -->
+  <rect x="50" y="50" width="200" height="150" rx="10" ry="10" fill="none" stroke="#FF7F00" stroke-width="4" />
+  <!-- Browser window dots -->
+  <circle cx="70" cy="70" r="5" fill="#FF7F00" />
+  <circle cx="90" cy="70" r="5" fill="#FF7F00" />
+  <circle cx="110" cy="70" r="5" fill="#FF7F00" />
+  
+  <!-- Main text -->
+  <text x="280" y="130" font-family="Georgia, serif" font-size="36" fill="#FF7F00">Samuel Oyedeji</text>
+  
+  <!-- Subtext -->
+  <text x="280" y="170" font-family="Arial, sans-serif" font-size="16" fill="#333333" letter-spacing="2">
+    FULL STACK DEV
+  </text>
+</svg>

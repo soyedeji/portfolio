@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "degree": "B.Sc. Geography",
+    "university": "Obafemi Awolowo University",
+    "timePeriod": "September 2008 - May 2013",
+    "img": "images/oau.png"
+  },
+  {
+    "id": 2,
+    "degree": "Full Stack Web Development Program",
+    "university": "Red River College",
+    "timePeriod": "January 2024 - April 2025",
+    "img": "images/rrc.png"
+  },
+  {
+    "id": 3,
+    "degree": "Web Development Bootcamp",
+    "university": "Classvisa.com",
+    "timePeriod": "January 2022 - October 2022",
+    "img": "images/classvisa.jpg"
+  }
+]

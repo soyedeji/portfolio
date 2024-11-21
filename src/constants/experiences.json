@@ -1,0 +1,19 @@
+[
+    {
+      "id": "0",
+      "title": "Technical Support",
+      "company": "Gatestone & Co",
+      "description": "Provided troubleshooting for digital services, networking, and software, delivering a high standard of support via phone and electronic channels. Documented solutions and managed escalations, developing communication skills crucial for cross-functional collaboration and user support. Contributed to process improvements and optimized response times through feedback to leadership.",
+      "timePeriod": "September 2023 – Present",
+      "img": "images/gatestone.jpg"
+    },
+    {
+      "id": "1",
+      "title": "Frontend Developer",
+      "company": "Shkula LLC",
+      "description": "Designed and developed a school management system with a focus on scalable, responsive front-end and back-end solutions. Conducted regular testing and debugging to enhance application performance and security, with an emphasis on clean, maintainable code.",
+      "timePeriod": "June 2022 – August 2023",
+      "img": "images/shkula.jpg"
+    }
+  ]
+  
